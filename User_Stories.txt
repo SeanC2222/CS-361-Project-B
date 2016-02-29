@@ -1,4 +1,4 @@
-User Stories by Cyle One Priority:
+User Stories by Cycle One Priority:
 
 (1) Calorie Calculator: As a user, I want the application to calculate my calorie
 intake (maximum standard) based on my age height, gender, and diet
