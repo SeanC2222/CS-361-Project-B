@@ -15,6 +15,9 @@ reqData['minprotein'] =
 
 
 //Build Query Here
+/* Production Key: bOmaZvaeU8mshuqpe8f0WkZqUCGMp1mxhsnjsnDvVjriaCBS6D 
+   Testing Key: DW9XSMsmJ9mshOb8Nu0OUsVY9ry7p1jwSaSjsnB20ChBTkFVg1
+*/
 var reqQuery = "https://spoonacular-recipe-food-nutrition-v1.p.mashape.com/recipes/findByNutrients?";
 var reqDataKeys = Object.keys(reqData);
 for(var i = 0; i < reqData.length; i++){
