@@ -1,19 +1,32 @@
-User Stories:
+User Stories by Cycle One Priority:
 
-Food Input: As a user, I want to be able to track the calories for the meal I eat. The less
-work it takes, the better.
+(1) Calorie Calculator: As a user, I want the application to calculate my calorie
+intake (maximum standard) based on my age height, gender, and diet
+preferences. This calorie intake will be used to generate my weekly meal plan.
+Effort Estimate: 15 days
 
-Goal Tracker: As a user, I want to be able to clearly establish my goals and see how well
-I’ve achieved them and get encouragement to hit those goals.
+(2) Meal Planner: As a user, I want an interesting meal plan generated for me
+that fits my goals and dietary preferences. I want to be able to make changes
+if I donÎéÎ÷t like the plan, or be able to regenerate a list at any time.
+Effort Estimate: 14 to 15 days
 
-Calorie Calculator: As a user, I want the calories to be automatically counted and
-weighed against my goals.
+(3) Database and Food API: As a user, I want to access genuine information,
+including recipes with calorie counts, and remember the goals I set.
+Effort Estimate: 32 days
 
-Meal Planner: As a user, I want an interesting meal plan generated for me that fits my
-goals and dietary preferences. I want to be able to make changes if I don’t like the plan,
-or be able to regenerate a list at any time.
+(4) Food Input: As a user, I want to be able to track the calories for the
+meal I eat. The less work it takes, the better.
+Effort Estimate: 6 days
 
-Grocery List Generator: As a user, I want a grocery list generated from my meal plan.
+(5) Goal Tracker: As a user, I want to see how well IÎéÎ÷ve achieved my goals
+and get encouragement to hit those goals.
+Effort Estimate: 2 days
 
-Healthy Articles: As a user, I want trustworthy health articles accessible to me to aid in
-the decisions I make relevant to my planned meals and goals.
+(6) Grocery List Generator: As a user, I want a grocery list generated from my
+meal plan.
+Effort Estimate: 7 days
+
+(7) Healthy Articles: As a user, I want trustworthy health articles accessible
+to me to aid in the decisions I make relevant to my planned meals and goals.
+Effort Estimate: 22 days
+
