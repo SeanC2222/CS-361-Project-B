@@ -16,13 +16,9 @@ var getQueryString = function ( field, url ) {
     https://market.mashape.com/spoonacular/recipe-food-nutrition#find-by-nutrients
     https://spoonacular-recipe-food-nutrition-v1.p.mashape.com
 
-    Production Key: bOmaZvaeU8mshuqpe8f0WkZqUCGMp1mxhsnjsnDvVjriaCBS6D 
-    Testing Key: DW9XSMsmJ9mshOb8Nu0OUsVY9ry7p1jwSaSjsnB20ChBTkFVg1
 */
-//Ben's Key
-//var key = "DW9XSMsmJ9mshOb8Nu0OUsVY9ry7p1jwSaSjsnB20ChBTkFVg1";
 //Sean's Key
-var key = "tfLrZlE8BnmshZ63qgU2qsYtQ28Lp1QdIOHjsnwgplvCOGLesM";
+var key = "tfLrZlE8BnmshZ63qgU2qsYtQ28Lp1QdIOHjsnwgplvCOGLesM";     //Key is no longer valid, left as example
 var failure = 0;
 
 
